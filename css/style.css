@@ -1,9 +1,10 @@
 .div1 {
-    background: steelblue;
+    background: maroon;
     padding-top: 1px;
     padding-bottom: 1px;
     width: 200px;
     text-align: center;
+    color: wheat;
 }
 
 .div2 {
@@ -48,7 +49,7 @@ section {
 }
 
 img {
-    width: 250px;
+    width: 280px;
     float: left;
     padding-right: 30px;
     padding-bottom: 25px;
@@ -114,4 +115,13 @@ label {
 .messageinput {
     width:900px;
     height: 175px;
+}
+
+button {
+    background: steelblue;
+    color: wheat;
+    height: 45px;
+    width: 100;
+    font-size: large;
+    margin: 2%;
 }
